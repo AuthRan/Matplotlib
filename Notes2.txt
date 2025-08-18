@@ -1,0 +1,14 @@
+Few terms you should be fimiliar with :
+1.Data Point: Each point in your graph is data point like (1, 80) -> 1st day 80 marks.
+2.X/Y Axis: x axis usually rep input line whearas y axis usually rep output line.
+3.Figure: Your canvas jaha pe u put ur graph.
+4.Axes: Also called graph area it is an area inside figure where you have graph.(ek figure mein multiple axes ho skte hai)
+5.Plot: Actual line graph inside axes.
+6.Market: Ek point ya dot so that har ek data point hme visible rhe.
+7.Line Style: Line is the actual line and styling that line is line style.
+8.Color: Colour of your line.
+9.Legend: Konsi line ya colour apke graph mein ky rep kr raha hai.
+10.Label: Name of your x axis and y axis.
+11.Title: Name of your graph.
+12.Grid: Box jiske andr you waana graph.
+13.DPI: Dots per inch so jo apki graph ko aap save karoge toh uski resolution ky hogi woh aap DPI se karte ho, higher dpi mean clearer image.

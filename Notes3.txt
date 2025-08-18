@@ -1,0 +1,6 @@
+Pyplots are a list of functions inside Matplotlib jinko aap use kr skte ho to draw ur graphs.
+It is easier to switch btw matlab and pyplot.
+
+Suppose you have multiple graphs on a figure (or multiple axes) then how would you target each individual graph? -> use object oriented API 
+Pyplot - Easy, gloabal state, less flexibility, good for beginner.
+OOAPI - Large, personal state, more flexibility, Proffetional data scientist.
