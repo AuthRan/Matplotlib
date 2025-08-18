@@ -1,10 +1,20 @@
 Why Matplotlib?
 It is used for data visualization  
 Hmare pass ek prob hai? -> without visualization tumhein mannually ek ek row ko scan karna pdega + time jata + effort jata wahi agr if you have data visualization chize samjhna thora asaan ho jata hai.
-DV is a process of converting boring data(numbers, texts) into colourful, clear and pictures(bar graph, pie chart, diagramsecho "# Matplotlib" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AuthRan/Matplotlib.git
-git push -u origin main)
+DV is a process of converting boring data(numbers, texts) into colourful, clear and pictures(bar graph, pie chart, diagrams)
+" Pictures speak louder than numbers "
+
+For interview, why Matplotlib -
+    :Images are processed by brain 60k times faster.
+    :Graphs pe it is easier to detect lie.
+    :90% Big Data Fails -> They didn't explore data visually.
+    :Miller's law : our brain can hold 7 pieces at once -> but if you use graphs then u can go upto thousands.
+
+
+In early 2000, python was being used in Research and Automation but for plotting mostly Matlab was used but it was paid and has low level code. John D Hunter was a neurologist and creater of matplotlib
+MAT - Matlab
+PLOT - plotting
+LIB - Library
+Line graph(to find trend), Bar Charts(Diff groups ko compare), Pie Charts(parts of whole), Histogram(Frequency distribution), Scatter Plot(To find relationship btw two points) + You can add custom graphics, colour etc
+
+We mostly do "import matplotlib.pyplot as plt" as pyplot gives us ready made stuff to work with plotting.
