@@ -1,0 +1,10 @@
+Why Matplotlib?
+It is used for data visualization  
+Hmare pass ek prob hai? -> without visualization tumhein mannually ek ek row ko scan karna pdega + time jata + effort jata wahi agr if you have data visualization chize samjhna thora asaan ho jata hai.
+DV is a process of converting boring data(numbers, texts) into colourful, clear and pictures(bar graph, pie chart, diagramsecho "# Matplotlib" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AuthRan/Matplotlib.git
+git push -u origin main)
